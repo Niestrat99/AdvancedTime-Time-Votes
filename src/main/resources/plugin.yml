@@ -1,0 +1,7 @@
+name: TimeVotes
+authors: [Niestrat99, Thatsmusic99]
+main: io.github.teambanhammer.main
+version: 1.0-SNAPSHOT
+description: A time vote plugin.
+
+commands:
